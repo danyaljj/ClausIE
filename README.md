@@ -25,15 +25,7 @@ To add it as maven dependency:
 
 Now you can make calls to the system, just like how it's done in `de.mpii.clausie.Example.java`. 
 
-
-## CONTENTS (VERSION 0.0.1)
-
--data/ : A set of test sentences
--clausie_lib/: A set of libraries used by clausie
--src/: Clausie source code
--clausie.jar: A runnable .jar file
-
-LICENSE
+ ## LICENSE
 
 * Clausie is distributed under the Attribution-ShareAlike (ver. 3.0 or later) [http://creativecommons.org/licenses/by-sa/3.0/legalcode]
 
