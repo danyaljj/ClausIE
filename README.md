@@ -27,8 +27,8 @@ Now you can make calls to the system, just like how it's done in `de.mpii.clausi
 
  ## LICENSE
 
-* Clausie is distributed under the Attribution-ShareAlike (ver. 3.0 or later) [http://creativecommons.org/licenses/by-sa/3.0/legalcode]
+* Clausie is distributed under the Attribution-ShareAlike (ver. 3.0 or later)[http://creativecommons.org/licenses/by-sa/3.0/legalcode]
 
-* This distribution includes libraries of the Stanford Parser v. 2.0.5 [http://www-nlp.stanford.edu/software/lex-parser.shtml] which is licensed under the GNU General Public License (v2 or later) [http://www.gnu.org/licenses/gpl-2.0.html]
+* This distribution includes libraries of the (Stanford Parser v. 2.0.5)[http://www-nlp.stanford.edu/software/lex-parser.shtml] which is licensed under the GNU General Public License (v2 or later)[http://www.gnu.org/licenses/gpl-2.0.html]
 
 As explained in the respective license codes both Clausie and the Stanford Parser come with absolutely no warranty.
