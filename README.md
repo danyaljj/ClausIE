@@ -1,4 +1,4 @@
-# ClauseIE 
+# ClausIE 
 
 Directly downloaded from their website, and mavenized to be used in a third party project. 
 
